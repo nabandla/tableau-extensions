@@ -1,0 +1,14 @@
+{
+  "name": "Ext",
+  "version": "1.0",
+  "description": "Test",
+  "main": "1",
+  "repository": "tab.com",
+  "author": "NaveenBandla",
+  "license": "None",
+  "private": null,
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
